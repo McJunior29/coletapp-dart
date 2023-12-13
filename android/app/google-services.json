@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094794676817",
+    "project_id": "coletapp-8022f",
+    "storage_bucket": "coletapp-8022f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094794676817:android:9b5e2a64fc32e87ade4670",
+        "android_client_info": {
+          "package_name": "com.example.coletapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094794676817-ckk31kgeh16gsduvcjuo60brg6j11ics.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAAweRgkJXc-ohnFeRPZSeCHWD7O8AgBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094794676817-ckk31kgeh16gsduvcjuo60brg6j11ics.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
